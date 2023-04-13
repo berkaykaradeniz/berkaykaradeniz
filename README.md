@@ -43,7 +43,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/berkay-karadeniz-60126b12b/"><img src="https://img.shields.io/badge/-berkay-karadeniz?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/berkaykaradeniz/"><img src="https://img.shields.io/badge/-berkay-karadeniz?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 -----
